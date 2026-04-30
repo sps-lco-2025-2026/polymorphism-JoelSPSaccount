@@ -3,7 +3,7 @@ namespace People.Lib;
 /// <summary>
 /// a derived class, which inherits from the base class 
 /// </summary>
-public class Student : Person
+public class Student : Person // not sure why it won't inherit
 {
     public string _yeargroup { get; set; }
 
