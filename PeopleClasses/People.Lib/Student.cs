@@ -38,6 +38,6 @@ public class Student : Person
 
     public override string GetName()
     {
-        return $"{base.GetScreenName()} ({_yeargroup})";
+        return $"{base.GetName()} ({_yeargroup})";
     }
 }
