@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="People.App/People.App.csproj" />
+  <Project Path="People.Lib/Person.Lib.csproj" />
+</Solution>
