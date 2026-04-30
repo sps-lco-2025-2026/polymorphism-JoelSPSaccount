@@ -33,7 +33,7 @@ public class Student : Person
         else if (age <= 18)
             return "College";
         else
-            return $"University Year {Math.Min(age - 17, 6)}";
+            return $"University";
     }
 
     public override string GetName()
